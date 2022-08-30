@@ -4,8 +4,8 @@
   "Description": "A simple description that shows up in /xlplugins.  List any major slash-command(s).",
   "InternalName": "samplePlugin",
   "AssemblyVersion": "1.0.0.0",
-  "RepoUrl": "https://github.com/yourName/yourRepo",
+  "RepoUrl": "https://github.com/xu932/LandBuilder/tree/main/Example",
   "ApplicableVersion": "any",
-  "Tags": ["sample", "plugin", "goats"],
+  "Tags": [ "sample", "plugin", "goats" ],
   "DalamudApiLevel": 1
 }
